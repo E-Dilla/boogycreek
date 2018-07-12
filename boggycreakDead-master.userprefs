@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SteamVR\InteractionSystem\Core\Scripts\UIElement.cs">
+    <Files>
+      <File FileName="Assets\_Scripts\Boggy_Monster_AISM.cs" Line="123" Column="37" />
+      <File FileName="Assets\_Scripts\BoggyController.cs" Line="60" Column="6" />
+      <File FileName="Assets\_Scripts\HunterSM_test.cs" Line="39" Column="1" />
+      <File FileName="Assets\SteamVR\InteractionSystem\Core\Scripts\UIElement.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
